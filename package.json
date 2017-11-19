@@ -7,7 +7,8 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "vue": "^2.4.4"
+    "vue": "^2.4.4",
+    "vue-google-autocomplete": "^1.0.13"
   },
   "devDependencies": {
     "babel-brunch": "^6.1.1",
