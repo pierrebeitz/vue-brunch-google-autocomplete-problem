@@ -3,8 +3,7 @@
   "description": "blorgh",
   "version": "0.0.1",
   "scripts": {
-    "start": "brunch watch --server",
-    "build": "brunch build --production"
+    "start": "brunch watch --server"
   },
   "dependencies": {
     "vue": "^2.4.4",
